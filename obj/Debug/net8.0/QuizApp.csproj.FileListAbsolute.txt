@@ -1,0 +1,14 @@
+/Users/alexcole/Documents/C#/OOP/QuizApp/bin/Debug/net8.0/QuizApp
+/Users/alexcole/Documents/C#/OOP/QuizApp/bin/Debug/net8.0/QuizApp.deps.json
+/Users/alexcole/Documents/C#/OOP/QuizApp/bin/Debug/net8.0/QuizApp.runtimeconfig.json
+/Users/alexcole/Documents/C#/OOP/QuizApp/bin/Debug/net8.0/QuizApp.dll
+/Users/alexcole/Documents/C#/OOP/QuizApp/bin/Debug/net8.0/QuizApp.pdb
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfoInputs.cache
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfo.cs
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/QuizApp.csproj.CoreCompileInputs.cache
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/QuizApp.dll
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/refint/QuizApp.dll
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/QuizApp.pdb
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/QuizApp.genruntimeconfig.cache
+/Users/alexcole/Documents/C#/OOP/QuizApp/obj/Debug/net8.0/ref/QuizApp.dll
